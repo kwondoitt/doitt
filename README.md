@@ -1,3 +1,4 @@
 # doitt
 NYC DOITT 
-Hi. everyone!!!
+
+Hi, everyone!!!
